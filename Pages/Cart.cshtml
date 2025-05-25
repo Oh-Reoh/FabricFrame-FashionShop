@@ -1,0 +1,81 @@
+@page
+@model FabricFrame.Pages.CartModel
+@{
+    ViewData["Title"] = "Shopping Cart";
+    var cart = Model.Cart;
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="toast-success" id="toast">
+        @TempData["SuccessMessage"]
+    </div>
+
+    <script>
+        setTimeout(function () {
+            document.getElementById('toast')?.classList.add('hide');
+        }, 3000);
+    </script>
+}
+
+<div class="container cart-wrapper">
+    <h2 class="cart-heading">🛒 Your Cart</h2>
+
+    @if (!cart.Items.Any())
+    {
+        <div class="empty-cart">
+            <img src="/images/emptycart.jpg" alt="Empty Cart" />
+            <p>Your cart is empty.</p>
+            <a class="btn" href="/Gallery">Start Shopping</a>
+        </div>
+    }
+    else
+    {
+        <table class="cart-table">
+            <thead>
+                <tr>
+                    <th>Preview</th>
+                    <th>Item</th>
+                    <th>Price</th>
+                    <th>Qty</th>
+                    <th>Subtotal</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in cart.Items)
+                {
+                    <tr>
+                        <img src="@item.Design.ImageUrl" alt="@item.Design.DesignName" class="cart-image" />
+                        <td>@item.Design.DesignName</td>
+                        <td>₱@item.Design.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>₱@(item.Design.Price * item.Quantity)</td>
+                        <input type="hidden" name="designId" value="@item.Design.DesignId" />
+                        <td>
+                            <form method="post" asp-page-handler="Remove">
+                                <input type="hidden" name="designId" value="@item.Design.DesignId" />
+                                <button type="submit" class="btn btn-remove">Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h3>Total: ₱@cart.ComputeTotalValue()</h3>
+
+        <div class="cart-buttons">
+            <form method="post" asp-page-handler="Clear" style="display:inline;">
+                <button type="submit" class="btn btn-clear">Clear Cart</button>
+            </form>
+
+            <form method="get" action="/Checkout" style="display:inline;">
+                <button type="submit" class="btn btn-checkout">Proceed to Checkout</button>
+            </form>
+
+            <a class="btn btn-continue" href="/Gallery">Continue Shopping</a>
+        </div>
+
+    }
+</div>

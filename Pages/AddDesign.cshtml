@@ -1,0 +1,27 @@
+@page
+@model AddDesignModel
+@{
+    ViewData["Title"] = "Add Design";
+}
+
+<h2>Add a New Design</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>Design Name:</label>
+        <input type="text" name="DesignName" required />
+    </div>
+    <div>
+        <label>Description:</label>
+        <textarea name="Description"></textarea>
+    </div>
+    <div>
+        <label>Price:</label>
+        <input type="number" name="Price" step="0.01" required />
+    </div>
+    <div>
+        <label>Upload Image:</label>
+        <input type="file" name="Image" accept="image/*" required />
+    </div>
+    <button type="submit">Add Design</button>
+</form>

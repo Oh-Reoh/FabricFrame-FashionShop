@@ -1,0 +1,245 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\Git-2.49.0-64-bit.exe",
+      "PackagePath": "staticwebassets\\images\\Git-2.49.0-64-bit.exe"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Always Fresh Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Always Fresh Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Beach Bear Tshirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Beach Bear Tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Denim Culottes Black.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Denim Culottes Black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Faded Denim Pants.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Faded Denim Pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Flower Tshirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Flower Tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Mens Twill Pants.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Mens Twill Pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Milk TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Milk TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Parachute Skirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Parachute Skirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Ride Waves Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Ride Waves Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\bench\\B-Smile Beach Shorts.jpg",
+      "PackagePath": "staticwebassets\\images\\bench\\B-Smile Beach Shorts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\emptycart.jpg",
+      "PackagePath": "staticwebassets\\images\\emptycart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Denim Arcade Long Shorts.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Denim Arcade Long Shorts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Elemental Motif Patchwork TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Elemental Motif Patchwork TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Hand Woven Floral Blazer.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Hand Woven Floral Blazer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Hand-Knit Scarf.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Hand-Knit Scarf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Let Loose Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Let Loose Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Mirror Mandarin Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Mirror Mandarin Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Puff Sleeve Denim Jacket.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Puff Sleeve Denim Jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Raw Edge Balloon Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Raw Edge Balloon Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-William Wind Breaker Jacket.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-William Wind Breaker Jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\hamu\\HM-Work Is A Party Jacket.jpg",
+      "PackagePath": "staticwebassets\\images\\hamu\\HM-Work Is A Party Jacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\landingPage.jpg",
+      "PackagePath": "staticwebassets\\images\\landingPage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Black Tee.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Black Tee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Cloud Arrow TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Cloud Arrow TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Crocodile Varsity Cardigan.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Crocodile Varsity Cardigan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Fresco Long Sleeved Top.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Fresco Long Sleeved Top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Irregular Cargo Jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Irregular Cargo Jeans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Lurex Tank Top.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Lurex Tank Top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Off Stamp Ribbed Midi Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Off Stamp Ribbed Midi Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Orange Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Orange Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Paint Relaxed Jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Paint Relaxed Jeans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\offwhite\\OW-Toybox Satin Cargo Pants.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite\\OW-Toybox Satin Cargo Pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Airforce Graphic TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Airforce Graphic TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Bermuda Denim Shorts.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Bermuda Denim Shorts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-ClawsOn The Sticks Graphic TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-ClawsOn The Sticks Graphic TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Crew Neck Tshirt.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Crew Neck Tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Floral TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Floral TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-JetStream Graphic TShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-JetStream Graphic TShirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Mid Western Jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Mid Western Jeans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Slim Fit Biker Jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Slim Fit Biker Jeans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Straight Fit Cargo Pants.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Straight Fit Cargo Pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\penshoppe\\PS-Two-Fer Henley Top.jpg",
+      "PackagePath": "staticwebassets\\images\\penshoppe\\PS-Two-Fer Henley Top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Enoki Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Enoki Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Galli Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Galli Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Geom Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Geom Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Imani Set.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Imani Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Kin Gown.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Kin Gown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Knoop Set.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Knoop Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Liza Gown.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Liza Gown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Mc Pherson Jumpsuit.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Mc Pherson Jumpsuit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Opa Set.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Opa Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\images\\rajo\\RL-Selen Gown.jpg",
+      "PackagePath": "staticwebassets\\images\\rajo\\RL-Selen Gown.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FabricFrame.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FabricFrame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FabricFrame.props",
+      "PackagePath": "build\\FabricFrame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FabricFrame.props",
+      "PackagePath": "buildMultiTargeting\\FabricFrame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FabricFrame.props",
+      "PackagePath": "buildTransitive\\FabricFrame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

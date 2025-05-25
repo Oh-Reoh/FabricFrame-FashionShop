@@ -1,0 +1,28 @@
+@page
+@model EditDesignModel
+@{
+    ViewData["Title"] = "Edit Design";
+}
+
+<h2>Edit Design</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" name="DesignId" value="@Model.Design.DesignId" />
+    <div>
+        <label>Design Name:</label>
+        <input type="text" name="DesignName" value="@Model.Design.DesignName" required />
+    </div>
+    <div>
+        <label>Description:</label>
+        <textarea name="Description">@Model.Design.Description</textarea>
+    </div>
+    <div>
+        <label>Price:</label>
+        <input type="number" name="Price" step="0.01" value="@Model.Design.Price" required />
+    </div>
+    <div>
+        <label>Replace Image:</label>
+        <input type="file" name="Image" accept="image/*" />
+    </div>
+    <button type="submit">Update Design</button>
+</form>

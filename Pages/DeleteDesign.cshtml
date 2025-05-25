@@ -1,0 +1,22 @@
+@page
+@model DeleteDesignModel
+@{
+    ViewData["Title"] = "Delete Design";
+}
+
+<h2>Delete Design</h2>
+
+<p>Are you sure you want to delete this design?</p>
+
+<div class="design-card">
+    <img src="@Model.Design.ImageUrl" alt="@Model.Design.DesignName" />
+    <h3>@Model.Design.DesignName</h3>
+    <p>@Model.Design.Description</p>
+    <p><strong>₱@Model.Design.Price.ToString("N2")</strong></p>
+</div>
+
+<form method="post">
+    <input type="hidden" name="DesignId" value="@Model.Design.DesignId" />
+    <button type="submit">Yes, Delete</button>
+    <a href="/Gallery">Cancel</a>
+</form>

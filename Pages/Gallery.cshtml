@@ -1,0 +1,46 @@
+@page
+@model GalleryModel
+@{
+    ViewData["Title"] = "Gallery";
+}
+
+<!-- Header -->
+<header class="site-header">
+    <h1 class="site-title">FabricFrame</h1>
+</header>
+
+<!-- Brand Filter Menu -->
+<div class="brand-filter">
+    <a href="?brand=all" class="filter-btn @(Model.SelectedBrand == "all" ? "active" : "")">All</a>
+    @foreach (var brand in Model.Brands)
+    {
+        var label = brand == "offwhite" ? "Off-White" :
+        System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(brand);
+        <a href="?brand=@brand" class="filter-btn @(Model.SelectedBrand == brand ? "active" : "")">@label</a>
+    }
+</div>
+
+<!-- Gallery Grid -->
+<div class="design-grid">
+    @foreach (var brand in Model.ImagesByBrand.Keys)
+    {
+        if (Model.SelectedBrand == "all" || Model.SelectedBrand == brand)
+        {
+            foreach (var item in Model.ImagesByBrand[brand])
+            {
+                <div class="design-card fade-in">
+                    <img src="/images/@brand/@item.ImageFile" alt="@item.DisplayName" />
+                    <h3 title="@item.DisplayName">@item.DisplayName</h3>
+                    <p class="price">@item.DisplayPrice</p>
+                    <form method="post" asp-page="/Cart" asp-page-handler="AddCustom">
+                        <input type="hidden" name="designName" value="@item.DisplayName" />
+                        <input type="hidden" name="price" value="@item.DisplayPrice" />
+                        <input type="hidden" name="imageUrl" value="/images/@brand/@item.ImageFile" />
+                        <input type="hidden" name="brand" value="@brand" />
+                        <button type="submit">Buy Now</button>
+                    </form>
+                </div>
+            }
+        }
+    }
+</div>

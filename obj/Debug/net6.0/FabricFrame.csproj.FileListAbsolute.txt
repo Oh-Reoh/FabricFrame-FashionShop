@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.AssemblyInfo.cs
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\INTPROG\FabricFrame\obj\Debug\net6.0\FabricFrame.RazorAssemblyInfo.cs

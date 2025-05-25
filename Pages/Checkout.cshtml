@@ -1,0 +1,82 @@
+﻿@page
+@model FabricFrame.Pages.CheckoutModel
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<!-- Site Header (matching Gallery and Cart) -->
+<header class="site-header">
+    <h1 class="site-title">FabricFrame</h1>
+</header>
+
+<div class="checkout-container">
+    <div class="checkout-form">
+        <h2>Check out now!</h2>
+        <p>Please enter your details, and we'll ship your goods right away.</p>
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <form method="post" class="checkout-form" novalidate>
+            <h3>Ship to</h3>
+            <div class="form-group">
+                <label>Name:</label>
+                <input asp-for="Order.Name" />
+            </div>
+
+            <h3>Address</h3>
+            <div class="form-group">
+                <label>Home Address:</label>
+                <input asp-for="Order.Line1" />
+            </div>
+
+            <div class="form-group">
+                <label>Street:</label>
+                <input asp-for="Order.Line2" />
+            </div>
+
+            <div class="form-group">
+                <label>Barangay:</label>
+                <input asp-for="Order.Line3" />
+            </div>
+
+            <div class="form-group">
+                <label>City:</label>
+                <input asp-for="Order.City" />
+            </div>
+
+            <div class="form-group">
+                <label>State/Region:</label>
+                <input asp-for="Order.State" />
+            </div>
+
+            <div class="form-group">
+                <label>Zip Code:</label>
+                <input asp-for="Order.Zip" />
+            </div>
+
+            <div class="form-group">
+                <label>Country:</label>
+                <input asp-for="Order.Country" />
+            </div>
+
+            <h3>Options</h3>
+            <div class="form-group gift-wrap-option">
+                <input type="checkbox" asp-for="Order.GiftWrap" id="giftwrap" />
+                <label for="giftwrap">Gift wrap these items</label>
+            </div>
+
+            <div class="form-group fragile-option">
+                <input type="checkbox" asp-for="Order.IsFragile" id="fragile" />
+                <label for="fragile">Mark as Fragile (handle with care)</label>
+            </div>
+
+            <div class="text-center">
+                <input class="btn btn-checkout-submit" type="submit" value="Complete Order" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

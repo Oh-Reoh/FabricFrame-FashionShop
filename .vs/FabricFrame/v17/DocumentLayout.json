@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Migrations\\20250525230132_AddOrderAndCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250525230132_AddOrderAndCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\ordercompleted.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\ordercompleted.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\editdesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\editdesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\editdesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\editdesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\deletedesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\deletedesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\adddesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\adddesign.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\adddesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\adddesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|c:\\users\\administrator\\documents\\intprog\\fabricframe\\fabricframe\\pages\\deletedesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F25B8BCF-FC57-F64C-8291-1252C13E8A75}|FabricFrame.csproj|solutionrelative:pages\\deletedesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_CookieConsentPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\_CookieConsentPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Thanks.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Thanks.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\EFOrderRepository.cs",
+              "RelativeToolTip": "Models\\EFOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:03:41.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T07:01:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderCompleted.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\OrderCompleted.cshtml",
+              "RelativeToolTip": "Pages\\OrderCompleted.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:06:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\cart.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\cart.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\cart.css",
+              "RelativeToolTip": "wwwroot\\css\\cart.css",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAAAF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-25T17:25:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:40:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Thanks.cshtml",
+              "RelativeToolTip": "Pages\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T22:20:02.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T23:16:46.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Checkout.cshtml",
+              "RelativeToolTip": "Pages\\Checkout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:04:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:54:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Checkout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Checkout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Checkout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Checkout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Checkout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:04:28.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\StoreDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StoreDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\StoreDBContext.cs",
+              "RelativeToolTip": "Models\\StoreDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:15:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:02:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250525230132_AddOrderAndCartTables.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Migrations\\20250525230132_AddOrderAndCartTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250525230132_AddOrderAndCartTables.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Migrations\\20250525230132_AddOrderAndCartTables.cs",
+              "RelativeToolTip": "Migrations\\20250525230132_AddOrderAndCartTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:01:32.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:55:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\IOrderRepository.cs",
+              "RelativeToolTip": "Models\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:03:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Design.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Design.cs",
+              "RelativeDocumentMoniker": "Models\\Design.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\Design.cs",
+              "RelativeToolTip": "Models\\Design.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:18:11.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Thanks.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Thanks.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Thanks.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Thanks.cshtml.cs",
+              "RelativeToolTip": "Pages\\Thanks.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:20:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "Pages\\Cart.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:58:55.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Gallery.cshtml",
+              "RelativeToolTip": "Pages\\Gallery.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T10:46:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\SessionCart.cs",
+              "RelativeDocumentMoniker": "Models\\SessionCart.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Models\\SessionCart.cs",
+              "RelativeToolTip": "Models\\SessionCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:53:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:40:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T20:21:55.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_CookieConsentPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_CookieConsentPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_CookieConsentPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T20:53:05.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:09:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderCompleted.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\OrderCompleted.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderCompleted.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\OrderCompleted.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderCompleted.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:06:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditDesign.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\EditDesign.cshtml",
+              "RelativeDocumentMoniker": "Pages\\EditDesign.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\EditDesign.cshtml",
+              "RelativeToolTip": "Pages\\EditDesign.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T18:10:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAUwA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-25T05:45:57.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Gallery.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Gallery.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Gallery.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Gallery.cshtml.cs",
+              "RelativeToolTip": "Pages\\Gallery.cshtml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:27:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T07:01:08.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T06:31:25.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditDesign.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\EditDesign.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditDesign.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\EditDesign.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditDesign.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:11:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteDesign.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\DeleteDesign.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\DeleteDesign.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\DeleteDesign.cshtml.cs",
+              "RelativeToolTip": "Pages\\DeleteDesign.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:11:21.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddDesign.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\AddDesign.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddDesign.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\AddDesign.cshtml.cs",
+              "RelativeToolTip": "Pages\\AddDesign.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:11:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteDesign.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\DeleteDesign.cshtml",
+              "RelativeDocumentMoniker": "Pages\\DeleteDesign.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\DeleteDesign.cshtml",
+              "RelativeToolTip": "Pages\\DeleteDesign.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T18:10:09.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddDesign.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\AddDesign.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AddDesign.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\INTPROG\\FabricFrame\\FabricFrame\\Pages\\AddDesign.cshtml",
+              "RelativeToolTip": "Pages\\AddDesign.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T18:09:34.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
